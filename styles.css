@@ -222,6 +222,9 @@ h2 span {
   justify-content: space-between;
   align-items: center;
 }
+.contact p{
+  color: #000;
+}
 .contact img {
   width: 400px;
   margin-right: 70px;
